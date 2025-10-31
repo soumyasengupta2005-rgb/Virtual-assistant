@@ -32,19 +32,19 @@ A personal desktop AI assistant built using **Python** and **Tkinter**, designed
   - “Show tasks”  
   - “Open YouTube / Notepad / Calculator/chatgpt”  
   - “Bye”
----
+
 ## ⚙️ Requirements
 Install dependencies before running:
 pip install pyttsx3 speechrecognition keyboard pyaudio
-
-Known Issues / Limitations
+---
+Known Issues / Limitations:
 Speech recognition requires a stable internet connection.
 Occasional delays during listening or speaking.
 Cannot currently execute complex commands or maintain long-term memory across restarts beyond name and tasks.
 GUI might appear slightly misaligned on some display resolutions.
 Hotkeys may conflict if other software captures “H” or “S”.
 
-Planned Updates
+Planned Updates:
 Customizable themes and shapes for the assistant.
 More personality types and smarter dialogue responses.
 Local offline recognition support.
